@@ -12,7 +12,7 @@ const App = () => {
         <
         Header / >
         <
-        /div> <
+        /div>  <
         Brand / >
         <
         WhatGPT3 / >
